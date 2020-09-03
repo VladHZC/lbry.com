@@ -10,7 +10,7 @@ Some exchanges have a US Dollar (USD/USDT) market, whereas others only trade LBC
 
 These steps below are an example of how to buy and sell LBC on Bittrex which has both USDT and BTC market pairs, but the mechanism of using order books will be similar on other exchanges.
 
-If you are acquiring LBC, you'll need to have BTC deposited into your account, link a bank account to deposit USD, or use a credit card (not available in all locations). If you are selling LBC, you'll need to [deposit the LBC to your Bittrex account first](#Withdrawing-LBC-to-Bittrex). 
+If you are acquiring LBC, you'll need to have BTC or USDT deposited into your account, link a bank account to deposit USD, or use a credit card (not available in all locations). If you are selling LBC, you'll need to [deposit the LBC to your Bittrex account first](#Withdrawing-LBC-to-Bittrex). 
 
 ## Login or create a Bittrex account
 1. Login / create a [Bittrex account](https://bittrex.com) (you may need to complete KYC)
